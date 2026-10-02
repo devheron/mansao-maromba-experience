@@ -1,0 +1,92 @@
+MANSÃO MAROMBA / CONCEPT BEVERAGE EXPERIENCE
+
+Fotografias e logotipo horizontal: https://gorodamansao.com/
+Tigrinho Manga + Maracujá: https://gorodamansao.com/produtos/whisky-combo-tigrinho-1l-6-unidades/
+Gin Kut e painéis laterais: referências fornecidas pelo usuário.
+Símbolo da tampa: https://seeklogo.com/vector-logo/434218/mansao-maromba
+Garrafas e rótulos 360° reconstruídos para o projeto. Frente e verso iguais; painéis laterais aproximados.
+Não são modelos ou rótulos industriais oficiais da marca.
+
+MODELOS 3D EXTERNOS
+Poly Haven — CC0 1.0 (https://polyhaven.com/license):
+Lemon: https://polyhaven.com/a/lemon
+Bananas: https://polyhaven.com/a/bananas
+Apple 01: https://polyhaven.com/a/food_apple_01
+Lime 01: https://polyhaven.com/a/food_lime_01
+Lychee 01: https://polyhaven.com/a/food_lychee_01
+Studio Small 09 HDRI: https://polyhaven.com/a/studio_small_09
+Adaptações: texturas WebP 2K, normalização; maçã colorida de verde no material.
+
+"Slice of Watermelon" by Jarlan Perez — Creative Commons Attribution 3.0.
+https://poly.pizza/m/7BMfIK4AqZK
+https://creativecommons.org/licenses/by/3.0/
+Adaptações: subdivisão, materiais PBR, escala e orientação.
+
+"Ice Cubes" by Jarlan Perez — Creative Commons Attribution 3.0.
+https://poly.pizza/m/ehhi-VtrVtT
+https://creativecommons.org/licenses/by/3.0/
+Adaptações: separação das três peças, retirada de poça/brilhos pintados,
+subdivisão com peso 0,18; material físico com transmissão e transparência.
+
+3DAssets.dev / 3D Assets — CC0 1.0 Universal.
+Mango: https://3dassets.dev/assets/fresh-produce-and-groceries-mango-44f22f03
+Blueberry Punnet: https://3dassets.dev/assets/fresh-produce-and-groceries-blueberries-punnet-c92fa4fe
+https://creativecommons.org/publicdomain/zero/1.0/
+O fornecedor informa criação com IA (Claude Fable 5.1).
+Adaptações: mirtilos isolados do conjunto; materiais físicos e escala.
+A manga recebeu UVs e detalhes de pele a partir das texturas de lima CC0 da Poly Haven.
+
+Os objetos decorativos não são uma declaração da composição das bebidas.
+Referência de interação: https://soda-landingpage.vercel.app/
+Three.js 0.180.0 (MIT), GSAP 3.13.0, Three Subdivide 1.1.5 (MIT).
+Fontes: Barlow Condensed e Manrope (OFL).
+Projeto conceitual independente. Marcas e artes pertencem aos seus titulares.
+
+Ice 003 PBR surface by ambientCG, CC0 1.0. Normal and roughness maps converted to WebP and applied to the external ice meshes.
+https://ambientcg.com/view?id=Ice003
+Galada font by Google Fonts contributors, SIL Open Font License.
+https://github.com/google/fonts/tree/main/ofl/galada
+
+DISTRIBUIÇÃO / REVENDA
+Informações, contato e depoimentos: https://distribuidoramansao.com.br/
+Depoimentos reproduzidos do site da distribuidora, também fornecidos pelo usuário; não são avaliações verificadas do Google.
+História de Toguro: https://bebidasmansaomaromba.com.br/home/
+Retrato: foto de referência fornecida pelo usuário; interpretação estilizada gerada com image_gen. É uma imagem em camadas com parallax, não uma digitalização volumétrica do Toguro.
+Cenário logístico ilustrativo; não representa instalações ou frota reais.
+Medium panel van by 3D Assets — CC0 1.0 Universal:
+https://3dassets.dev/assets/car-park-and-road-vehicle-fleet-medium-panel-van-9ef397a4
+https://cdn.3dassets.dev/assets/32511/v1/model.glb
+O fornecedor informa criação assistida por IA. Geometria externa original, pintura física verde, escala e decalques projetados nas laterais.
+DecalGeometry by Three.js contributors, Three.js 0.180.0, MIT.
+Factory / depot by Poly by Google — CC BY 3.0: https://poly.pizza/m/fCiJW5Qdgbf
+Adaptação do prédio: retirada de chaminés e guindaste, aplicação da marca para o cenário de distribuição.
+https://creativecommons.org/licenses/by/3.0/
+Adaptações: texturas otimizadas, escala, materiais, aplicação da marca e composição.
+Worker by Quaternius — CC0: https://poly.pizza/m/Yg2bQZO6Hj
+Box by Kenney — CC0: https://poly.pizza/m/HvjissDrdr
+https://creativecommons.org/publicdomain/zero/1.0/
+Caixas reutilizam o modelo externo com arte da marca aplicada às faces; nenhum modelo de veículo ou caixa foi desenhado proceduralmente nesta revisão.
+Instagram da Mansão: https://www.instagram.com/mansaomaromba/?hl=pt
+Instagram de Toguro: https://www.instagram.com/toguro
+Contato da marca fornecido pelo usuário: toguro@mansaomaromba.com
+
+
+ARTES VETORIAIS ENVIADAS PELO USUÁRIO — REVENDA
+lorry.zip: 19141.eps / 19141.jpg, caminhão por macrovector / Freepik.
+Referência fornecida: https://www.magnific.com/br/vetores-gratis/caminhao_4331199.htm
+distrubidora.zip: 6638.eps / 6638.jpg, galpões por macrovector / Freepik.
+Licença free incluída nos dois ZIPs: uso como parte do design, com atribuição “Designed by macrovector / Freepik”. Crédito visível na cena e link https://www.freepik.com/.
+entregadorzip.zip: vj74_lg6l_211112.eps / .jpg. Criador indicado nos metadados EPS: interact_natcha. Nenhum arquivo de licença acompanha esse ZIP; recurso fornecido pelo usuário para este projeto.
+Adaptações: extração da vista lateral do caminhão, da pose com caixas, dos volumes de caixas e da terceira opção de galpão; aplicação da marca, cores e composição.
+EPS convertidos localmente; o entregador usa os caminhos vetoriais da seção Illustrator original, evitando a prévia raster de baixa resolução do EPS.
+Caminhão renderizado a partir do vetor com suas máscaras/gradientes originais em WebP transparente de 1550 px. Os demais elementos permanecem em SVG. A máscara do caminhão deriva da mesma arte vetorial.
+São ilustrações em camadas com parallax, não modelos 3D volumétricos. A home permanece em Three.js com garrafas e frutas 3D.
+Os EPS/JPG/ZIP originais não são incluídos no pacote do site. Os assets adaptados destinam-se à composição deste site.
+
+DISTRIBUTION HERO — CURRENT RENDER (02/10/2026)
+Generated with built-in image_gen at the user's request, using the uploaded truck, courier and warehouse EPS preview images and actual brand logo as visual references. Coherent stylized 3D-look bitmap, not a rotatable 3D model or official fleet photograph. No original stock EPS/JPG included.
+Active file: logistics-art/distribution-render-v2.webp (1536x1024, RGBA).
+Full prompt and tool mode: logistics-art/distribution-render-prompt.txt.
+Original truck/warehouse visual references: macrovector / Freepik (visible attribution maintained).
+Courier visual reference supplied in entregadorzip.zip, interact_natcha metadata; no license file supplied in the archive.
+The render replaces the mismatched separate vector cutouts. Gentle whole-scene parallax preserves the common perspective and scale.

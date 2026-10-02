@@ -1,0 +1,6 @@
+Tool: built-in image_gen
+Output: toguro-portrait.webp (optimized from the generated transparent PNG)
+Reference: portrait supplied by the user.
+
+Final prompt:
+Use case: identity-preserve / stylized-concept. Asset type: transparent portrait cutout for a premium Mansão Maromba beverage founder section. Input image is the identity, pose and tattoo reference of Toguro. Convert this same man into a polished high-end 3D stylized portrait, realistic likeness but softly sculpted like a collectible editorial character, not low-poly. Preserve his distinctive face, facial tattoos, cropped hair, neck and arm tattoos, muscular body, hands together in the exact prayer pose, white fitted T-shirt. Waist-up, both elbows completely in frame, centered, slightly generous clear margin around silhouette. Premium physically based materials, subtle skin texture, faithful colored tattoos, soft warm key lighting and gentle golden rim light, calm confident expression, realistic proportions. Absolutely no text, logos, props, accessories, scenery, plinth or shadows on the background. Actual transparent alpha background. This is a stylized visual interpretation, not a fabricated photograph.
